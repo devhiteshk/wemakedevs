@@ -2,7 +2,7 @@ export const navLinks = [
   {
     name: "Home",
     href: "/",
-    external: false,
+    external: true,
     active: true,
   },
   {
